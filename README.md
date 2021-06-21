@@ -1,0 +1,2 @@
+# Affirmations-app
+Daily affirmations
